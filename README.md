@@ -7,4 +7,4 @@ This code is to demonstrate my application of knowledge for cryptography primati
 
 ## Screenshot of the typical terminal output: 
 
-![Terminal Screenshot](terminal-screenshot.png)
+![Terminal Screenshot](https://github.com/matthew-lowsley/CW1_COMP2006_CODE/blob/main/terminal-screenshot.PNG)
